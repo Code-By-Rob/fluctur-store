@@ -1,5 +1,7 @@
 # fluctur-store
 
+![](/Screenshot 2022-07-28 at 18.30.41.png)
+
 This project is an e-commerce store created using the following:
 
 - [MongoDB](https://www.mongodb.com/)
