@@ -1,6 +1,6 @@
 # fluctur-store
 
-![alt text](/Screenshot 2022-07-28 at 18.30.41.png)
+![alt text](Screenshot 2022-07-28 at 18.30.41.png)
 
 This project is an e-commerce store created using the following:
 
